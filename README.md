@@ -7,7 +7,7 @@ A 2D game project built with HTML5, CSS3, and JavaScript. This is an interactive
 - **HTML5 Canvas** - Smooth 2D graphics rendering
 - **CSS3 Styling** - Modern and responsive UI design
 - **JavaScript Game Logic** - Event-driven player controls and game mechanics
-- **Collision Detection** - Advanced physics for game interactions
+- **Collision Detection** - Advanced physics for game interaction
 - **Score System** - Track player progress and achievements
 - **Responsive Design** - Works seamlessly on desktop and mobile devices
 
